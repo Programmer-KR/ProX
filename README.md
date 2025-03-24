@@ -218,9 +218,9 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact  
 
 For any questions, reach out at:  
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-🌐 Website: [yourwebsite.com](https://yourwebsite.com)  
-📌 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+📧 Email: [programmerkr.123@gmail.com](mailto:programmerkr.123@gmail.com)  
+🌐 Website: [prox.com](https://prox.com)  
+📌 GitHub: [github.com/ProgrammerKR](https://github.com/ProgrammerKR)  
 
 ---
 
